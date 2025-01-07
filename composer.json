@@ -1,0 +1,19 @@
+{
+    "name": "hickory/walnut",
+    "description": "this is php pdo library",
+    "type": "l",
+    "license": "mit",
+    "autoload": {
+        "psr-4": {
+            "Hickory\\Walnut\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "zeyuanclover",
+            "email": "zeyuanclover@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
