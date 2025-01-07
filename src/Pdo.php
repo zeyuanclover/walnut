@@ -1,7 +1,7 @@
 <?php
 
 namespace Hickory\Walnut;
-
+ 
 class Pdo
 {
     /**
