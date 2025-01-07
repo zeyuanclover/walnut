@@ -1,8 +1,8 @@
 <?php
 
-namespace Plantation\Banana\Database;
+namespace Hickory\Walnut;
 
-class PdoStd
+class Pdo
 {
     /**
      * @var
